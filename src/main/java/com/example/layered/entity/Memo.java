@@ -1,5 +1,6 @@
 package com.example.layered.entity;
 
+import com.example.layered.dto.MemoRequestDto;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 
